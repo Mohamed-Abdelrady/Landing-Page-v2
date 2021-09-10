@@ -30,6 +30,7 @@ body.active {
     z-index: 22;
     width: 100%;
     transition: all 0.3s ease-in-out;
+    z-index: 333;
 }
 .header .navbar-up.resize {
     position: fixed;
